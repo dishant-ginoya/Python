@@ -1,0 +1,70 @@
++------+-------------------------+--------------------------------------------------------------------------------------+
+|  No. |        Exception        |                                       Description                                    |
+|------+-------------------------+--------------------------------------------------------------------------------------|
+|      |                         |                                                                                      |
+|  01. | ArithmeticError         | Raised when an error occurs in numeric calculations.	                                |
+|      |                         |                                                                                      |
+|  02. | AssertionError          | Raised when an assert statement fails.                                               |
+|      |                         |                                                                                      |
+|  03. | AttributeError          | Raised when attribute reference or assignment fails.                                 |
+|      |                         |                                                                                      |
+|  04. | Exception               | Base class for all exceptions.                                                       |
+|      |                         |                                                                                      |
+|  05. | EOFError                | Raised when the input() method hits an "end of file" condition (EOF).                |
+|      |                         |                                                                                      |
+|  06. | FloatingPointError      | Raised when a floating point calculation fails.                                      |
+|      |                         |                                                                                      |
+|  07. | GeneratorExit           | Raised when a generator is closed (with the close() method).                         |
+|      |                         |                                                                                      |
+|  08. | ImportError 	         | Raised when an imported module does not exist.                                       |
+|      |                         |                                                                                      |
+|  09. | IndentationError        | Raised when indentation is not correct.                                              |
+|      |                         |                                                                                      |
+|  10. | IndexError              | Raised when an index of a sequence does not exist.                                   |
+|      |                         |                                                                                      |
+|  11. | KeyError                | Raised when a key does not exist in a dictionary.                                    |
+|      |                         |                                                                                      |
+|  12. | KeyboardInterrupt       | Raised when the user presses Ctrl+c, Ctrl+z or Delete.                               |
+|      |                         |                                                                                      |
+|  13. | LookupError             | Raised when errors raised cant be found.                                             |
+|      |                         |                                                                                      |
+|  14. | MemoryError             | Raised when a program runs out of memory.                                            |
+|      |                         |                                                                                      |
+|  15. | NameError               | Raised when a variable does not exist.                                               |
+|      |                         |                                                                                      |
+|  16. | NotImplementedError     | Raised when an abstract method requires an inherited class to override the method.   |
+|      |                         |                                                                                      |
+|  17. | OSError                 | Raised when a system related operation causes an error.                              |
+|      |                         |                                                                                      |
+|  18. | OverflowError           | Raised when the result of a numeric calculation is too large.                        |
+|      |                         |                                                                                      |
+|  19. | ReferenceError          | Raised when a weak reference object does not exist.                                  |
+|      |                         |                                                                                      |
+|  20. | RuntimeError            | Raised when an error occurs that do not belong to any specific exceptions.           |
+|      |                         |                                                                                      |
+|  21. | StopIteration           | Raised when the next() method of an iterator has no further values.                  |
+|      |                         |                                                                                      |
+|  22. | SyntaxError             | Raised when a syntax error occurs.                                                   |
+|      |                         |                                                                                      |
+|  23. | TabError                | Raised when indentation consists of tabs or spaces.                                  |
+|      |                         |                                                                                      |
+|  24. | SystemError             | Raised when a system error occurs.                                                   |
+|      |                         |                                                                                      |
+|  25. | SystemExit              | Raised when the sys.exit() function is called.                                       |
+|      |                         |                                                                                      |
+|  26. | TypeError               | Raised when two different types are combined.                                        |
+|      |                         |                                                                                      |
+|  27. | UnboundLocalError       | Raised when a local variable is referenced before assignment.                        |
+|      |                         |                                                                                      |
+|  28. | UnicodeError            | Raised when a unicode problem occurs.                                                |
+|      |                         |                                                                                      |
+|  29. | UnicodeEncodeError      | Raised when a unicode encoding problem occurs.                                       |
+|      |                         |                                                                                      |
+|  30. | UnicodeDecodeError      | Raised when a unicode decoding problem occurs.                                       |
+|      |                         |                                                                                      |
+|  31. | UnicodeTranslateError   | Raised when a unicode translation problem occurs.                                    |
+|      |                         |                                                                                      |
+|  32. | ValueError              | Raised when there is a wrong value in a specified data type.                         |
+|      |                         |                                                                                      |
+|  33. | ZeroDivisionError       | Raised when the second operator in a division is zero.                               |
++------+-------------------------+--------------------------------------------------------------------------------------+
