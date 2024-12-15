@@ -1,0 +1,52 @@
+Total Number of Matches : 10
+
+Number of Match : 1
+  Player 1 card : (Jack of Clubs), (King of Clubs), (None of Clubs)
+  Player 2 card : (None of Clubs), (Ace of Spades), (None of Hearts)
+   --> Result :player 1 win 
+
+Number of Match : 2
+  Player 1 card : (None of Hearts), (King of Spades), (None of Spades)
+  Player 2 card : (Jack of Clubs), (Ace of Hearts), (None of Spades)
+   --> Result :  player 2 win 
+
+Number of Match : 3
+  Player 1 card : (None of Hearts), (None of Clubs), (None of Spades)
+  Player 2 card : (Jack of Hearts), (None of Hearts), (None of Diamonds)
+   --> Result :player 1 win 
+
+Number of Match : 4
+  Player 1 card : (None of Hearts), (Jack of Hearts), (Queen of Hearts)
+  Player 2 card : (None of Diamonds), (None of Spades), (None of Clubs)
+   --> Result :player 1 win 
+
+Number of Match : 5
+  Player 1 card : (Ace of Clubs), (None of Clubs), (None of Diamonds)
+  Player 2 card : (None of Hearts), (None of Spades), (None of Spades)
+   --> Result :player 1 win 
+
+Number of Match : 6
+  Player 1 card : (None of Diamonds), (None of Diamonds), (None of Spades)
+  Player 2 card : (None of Clubs), (None of Diamonds), (None of Spades)
+   --> Result :player 1 win 
+
+Number of Match : 7
+  Player 1 card : (None of Diamonds), (None of Hearts), (None of Clubs)
+  Player 2 card : (None of Hearts), (Jack of Diamonds), (None of Clubs)
+   --> Result :player 1 win 
+
+Number of Match : 8
+  Player 1 card : (None of Spades), (None of Diamonds), (None of Diamonds)
+  Player 2 card : (Jack of Clubs), (None of Clubs), (None of Diamonds)
+   --> Result :  player 2 win 
+
+Number of Match : 9
+  Player 1 card : (None of Hearts), (Queen of Spades), (Ace of Spades)
+  Player 2 card : (None of Spades), (Ace of Diamonds), (None of Diamonds)
+   --> Result :player 1 win 
+
+Number of Match : 10
+  Player 1 card : (None of Diamonds), (None of Spades), (None of Spades)
+  Player 2 card : (King of Hearts), (None of Clubs), (None of Clubs)
+   --> Result :player 1 win 
+
